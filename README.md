@@ -19,3 +19,4 @@ I'm a student at University of Stavanger. In 2021 i finisehd my bachelor in Comp
 
 ---
 [LinkedIn](https://www.linkedin.com/in/vemund-r-05357597/)
+[refnin.no](https://www.refnin.no)
