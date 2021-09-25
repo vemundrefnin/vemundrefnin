@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student at University of Stavanger. In 2021 i finisehd my bachelor in Computer Engineering and I'm currently working on my masters in Industrial Economics. The public repos on my github is mostly hobby projects.
+
+---
+[LinkedIn](https://www.linkedin.com/in/vemund-r-05357597/)
