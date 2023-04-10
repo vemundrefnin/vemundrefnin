@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student at University of Stavanger. In 2021 i finisehd my bachelor in Computer Engineering and I'm currently working on my masters in Industrial Economics. The public repos on my github are mostly hobby projects.
+I'm a student at University of Stavanger. In 2021 i finisehd my bachelor in Computer Engineering and I'm currently working on my masters in Industrial Economics. The public repos on my github are mostly hobby projects. Checkout my [LinkdIn](https://www.linkedin.com/in/vemund-r-05357597/) and [portiofilio website](https://www.refnin.no). Contact me at vemund@refnin.no or +47 92020335 if you want my full resume.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/vemund-r-05357597/)
